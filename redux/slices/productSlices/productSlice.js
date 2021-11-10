@@ -1,6 +1,5 @@
 import {createSlice} from "@reduxjs/toolkit";
 import {getAllProducts, getAProduct} from "./productAPI";
-import products from "../../../data/products";
 
 const initialState = {
     loading: "idle",
