@@ -1,0 +1,1 @@
+export const NEXT_API = "http://localhost:3000"
